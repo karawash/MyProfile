@@ -1,8 +1,6 @@
-# MyProfile
-
 <table>
   <tr>
-    <h2>Applications</h2>
+    <h4>Applications</h4>
   </tr>
   <tr>
   <th width="33%"><img  alt="Crime Prediction App" src="https://github.com/karawash/Crime-Prediction-App/blob/master/image.gif"> </th>
@@ -28,7 +26,7 @@
 
   <table>
   <tr>
-    <h2>Slides</h2>
+    <h4>Slides</h4>
   </tr>
   <tr>
   <th width="33%"><img  alt="Data Science Process" src="https://github.com/karawash/helpers/blob/main/Data-Science.gif"></th>
@@ -64,7 +62,7 @@
 
   <table>
   <tr>
-    <h2>Notebooks</h2>
+    <h4>Notebooks</h4>
   </tr>
   <tr>
   <th width="33%"><img  alt="Fake News Detection" src="https://github.com/karawash/helpers/blob/main/fakenews.gif"></th>
