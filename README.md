@@ -50,37 +50,7 @@
   </tr>
   </table>
   
-  <table>
-  <tr>
-    <h2>Notebooks</h2>
-  </tr>
-  <tr>
-    <th width="33%">
-		<a href="https://www.kaggle.com/karawash/classifying-news-fake-and-real-near-100-acc" target="_blank">
-			<img  alt="Fake News Detection" src="https://github.com/karawash/helpers/blob/main/fakenews.gif"> 
-			</a>
-	</th>
-	<th width="33%">
-		<a href="https://www.kaggle.com/karawash/facial-expression-recognition-81-percent" target="_blank">
-			<img alt="Facial Recognition" src="https://github.com/karawash/helpers/blob/main/facialrecognition.gif">  
-			</a>
-	</th>
-	<th width="33%">
-		<a href="https://github.com/karawash/Optimization-Model" target="_blank">
-			<img alt="Optimization Model" src="https://github.com/karawash/helpers/blob/main/optimizationmodel.gif">   
-			</a>
-	</th>
-   </tr>
-  <tr>
-  <th><a href="https://www.kaggle.com/karawash/classifying-news-fake-and-real-near-100-acc" target="_blank">Fake News Detection</a>
-  </th>
-  <th><a href="https://www.kaggle.com/karawash/facial-expression-recognition-81-percent" target="_blank">Facial Recognition</a>
-  </th>
-  <th><a href="https://github.com/karawash/Optimization-Model" target="_blank">Optimization Model</a>
-  </th>
-  </tr>
-  </table>
-  
+
   <table>
   <tr>
     <h2>Slides</h2>
@@ -155,3 +125,35 @@
   </th>
   </tr>
   </table>
+
+  <table>
+  <tr>
+    <h2>Notebooks</h2>
+  </tr>
+  <tr>
+    <th width="33%">
+		<a href="https://www.kaggle.com/karawash/classifying-news-fake-and-real-near-100-acc" target="_blank">
+			<img  alt="Fake News Detection" src="https://github.com/karawash/helpers/blob/main/fakenews.gif"> 
+			</a>
+	</th>
+	<th width="33%">
+		<a href="https://www.kaggle.com/karawash/facial-expression-recognition-81-percent" target="_blank">
+			<img alt="Facial Recognition" src="https://github.com/karawash/helpers/blob/main/facialrecognition.gif">  
+			</a>
+	</th>
+	<th width="33%">
+		<a href="https://github.com/karawash/Optimization-Model" target="_blank">
+			<img alt="Optimization Model" src="https://github.com/karawash/helpers/blob/main/optimizationmodel.gif">   
+			</a>
+	</th>
+   </tr>
+  <tr>
+  <th><a href="https://www.kaggle.com/karawash/classifying-news-fake-and-real-near-100-acc" target="_blank">Fake News Detection</a>
+  </th>
+  <th><a href="https://www.kaggle.com/karawash/facial-expression-recognition-81-percent" target="_blank">Facial Recognition</a>
+  </th>
+  <th><a href="https://github.com/karawash/Optimization-Model" target="_blank">Optimization Model</a>
+  </th>
+  </tr>
+  </table>
+  
