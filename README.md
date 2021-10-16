@@ -18,8 +18,24 @@
   <th width="33%"><img alt="Multilingual Chatbot App" src="https://github.com/karawash/SmartCells-Web-App/blob/master/images/smartcells.gif"></th>
   </tr>
   <tr>
-  <th><a href="https://github.com/karawash/Customer-Interests-Understanding-App" target="_blank">User Interests App</a></th>
+  <th><a href="https://github.com/karawash/Customer-Interests-Understanding-App" target="_blank">User Interests App (NLP)</a></th>
   <th><a href="https://github.com/karawash/SmartCells-Web-App" target="_blank">Web Services App</a></th>
+  </tr>
+  </table>
+  
+  <table>
+  <tr>
+    <h4>Notebooks</h4>
+  </tr>
+  <tr>
+  <th width="33%"><img  alt="Fake News Detection" src="https://github.com/karawash/helpers/blob/main/fakenews.gif"></th>
+  <th width="33%"><img alt="Facial Recognition" src="https://github.com/karawash/helpers/blob/main/facialrecognition.gif"></th>
+  <th width="33%"><img alt="Optimization Model" src="https://github.com/karawash/helpers/blob/main/optimizationmodel.gif"></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.kaggle.com/karawash/classifying-news-fake-and-real-near-100-acc" target="_blank">Fake News Detection (NLP)</a></th>
+  <th><a href="https://www.kaggle.com/karawash/facial-expression-recognition-81-percent" target="_blank">Facial Recognition</a></th>
+  <th><a href="https://github.com/karawash/Optimization-Model" target="_blank">Optimization Model</a></th>
   </tr>
   </table>
   
@@ -60,19 +76,4 @@
   </tr>
   </table>
 
-  <table>
-  <tr>
-    <h4>Notebooks</h4>
-  </tr>
-  <tr>
-  <th width="33%"><img  alt="Fake News Detection" src="https://github.com/karawash/helpers/blob/main/fakenews.gif"></th>
-  <th width="33%"><img alt="Facial Recognition" src="https://github.com/karawash/helpers/blob/main/facialrecognition.gif"></th>
-  <th width="33%"><img alt="Optimization Model" src="https://github.com/karawash/helpers/blob/main/optimizationmodel.gif"></th>
-  </tr>
-  <tr>
-  <th><a href="https://www.kaggle.com/karawash/classifying-news-fake-and-real-near-100-acc" target="_blank">Fake News Detection</a></th>
-  <th><a href="https://www.kaggle.com/karawash/facial-expression-recognition-81-percent" target="_blank">Facial Recognition</a></th>
-  <th><a href="https://github.com/karawash/Optimization-Model" target="_blank">Optimization Model</a></th>
-  </tr>
-  </table>
   
