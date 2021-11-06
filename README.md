@@ -18,7 +18,7 @@
   <th width="33%"><img alt="Multilingual Chatbot App" src="https://github.com/karawash/SmartCells-Web-App/blob/master/images/smartcells.gif"></th>
   </tr>
   <tr>
-  <th><a href="https://github.com/karawash/Customer-Interests-Understanding-App" target="_blank">User Interests App (NLP)</a></th>
+  <th><a href="https://github.com/karawash/Customer-Interests-Understanding-App" target="_blank">Behavioural Analysis App</a></th>
   <th><a href="https://github.com/karawash/SmartCells-Web-App" target="_blank">Web Services App</a></th>
   </tr>
   </table>
