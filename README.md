@@ -8,9 +8,9 @@
   <th width="33%"><img  alt="Data Mining MATLAB" src="https://github.com/karawash/helpers/blob/main/data-mining-matlab.gif"></th>
   </tr>
   <tr>
-  <th><a href="https://www.slideshare.net/karawash/introduction-todatascience" target="_blank">Data Science Process</a></th>
-  <th><a href="https://www.slideshare.net/karawash/how-to-understand-your-data-250166479" target="_blank">Data visualization & Understanding</a></th>
-  <th><a href="https://www.slideshare.net/karawash/data-mining-using-matlab-codes" target="_blank">Data Mining MATLAB</a></th>
+  <th><a href="https://www.slideshare.net/karawash/introduction-todatascience" target="_blank">Data Science Why & How?</a></th>
+  <th><a href="https://www.slideshare.net/karawash/how-to-understand-your-data-250166479" target="_blank">Understand Data with Visualizations</a></th>
+  <th><a href="https://www.slideshare.net/karawash/data-mining-using-matlab-codes" target="_blank">Data Mining using MATLAB</a></th>
   </tr>
 </table>
 
