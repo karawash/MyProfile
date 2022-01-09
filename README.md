@@ -1,21 +1,5 @@
 <table>
   <tr>
-    <h4>Slides</h4>
-  </tr>
-  <tr>
-  <th width="33%"><img  alt="Data Science Process" src="https://github.com/karawash/helpers/blob/main/Data-Science.gif"></th>
-  <th width="33%"><img alt="Data visualization & Understanding" src="https://github.com/karawash/helpers/blob/main/Data-vis.gif"></th>
-  <th width="33%"><img  alt="Data Mining MATLAB" src="https://github.com/karawash/helpers/blob/main/data-mining-matlab.gif"></th>
-  </tr>
-  <tr>
-  <th><a href="https://www.slideshare.net/karawash/introduction-todatascience" target="_blank">Data Science Why & How?</a></th>
-  <th><a href="https://www.slideshare.net/karawash/how-to-understand-your-data-250166479" target="_blank">Understand Data with Visualizations</a></th>
-  <th><a href="https://www.slideshare.net/karawash/data-mining-using-matlab-codes" target="_blank">Data Mining using MATLAB</a></th>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <h4>Applications</h4>
   </tr>
   <tr>
@@ -47,7 +31,21 @@
   </tr>
   </table>
   
-
+<table>
+  <tr>
+    <h4>Slides</h4>
+  </tr>
+  <tr>
+  <th width="33%"><img  alt="Data Science Process" src="https://github.com/karawash/helpers/blob/main/Data-Science.gif"></th>
+  <th width="33%"><img alt="Data visualization & Understanding" src="https://github.com/karawash/helpers/blob/main/Data-vis.gif"></th>
+  <th width="33%"><img  alt="Data Mining MATLAB" src="https://github.com/karawash/helpers/blob/main/data-mining-matlab.gif"></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.slideshare.net/karawash/introduction-todatascience" target="_blank">Data Science Why & How?</a></th>
+  <th><a href="https://www.slideshare.net/karawash/how-to-understand-your-data-250166479" target="_blank">Understand Data with Visualizations</a></th>
+  <th><a href="https://www.slideshare.net/karawash/data-mining-using-matlab-codes" target="_blank">Data Mining using MATLAB</a></th>
+  </tr>
+</table>
   
 
   
